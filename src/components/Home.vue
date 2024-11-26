@@ -270,10 +270,10 @@
 
     <br><br>
     <div class="boxy2">
-	    <h3>Company contact info:</h3>
+	<h3>Company contact info:</h3>
         <i class="fa-solid fa-person fa-sm"></i> <b>Company owner:</b> <i>Kenneth Kompi</i><br>
-		<i class="fa-solid fa-envelope fa-sm"></i> <b>Email:</b> <i><a href="mailto:lehlohonegus@gmail.com">lehlohonegus@gmail.com</a></i><br>
-		<i class="fa-solid fa-phone fa-shake fa-sm"></i> <b>Number:</b> <i><a href="tel:0735430234">073 543 0234</a></i><br>
+	<i class="fa-solid fa-envelope fa-sm"></i> <b>Email:</b> <i><a href="mailto:lehlohonegus@gmail.com">lehlohonegus@gmail.com</a></i><br>
+	<i class="fa-solid fa-phone fa-shake fa-sm"></i> <b>Number:</b> <i><a href="tel:0797223005">079 722 3005</a></i><br>
         <i class="fa-solid fa-location-dot fa-sm"></i> <b>Business address:</b> <i>118 Apula avenue, Soweto</i>
     </div>
     <br>
@@ -377,12 +377,12 @@
                 var message = this.formData.message;
                 /*
                 let submission = async () => {
-					try {
-						const response = await axios.post("https://AQTechSol.onrender.com/receive-info", { fn, ln, email, pn, dob, location, message});
-					} catch () {
+			try {
+			      const response = await axios.post("https://AQTechSol.onrender.com/receive-info", { fn, ln, email, pn, dob, location, message});
+			} catch () {
                         // Error output
 				    }
-			    }
+			}
                 */
             },
         },
